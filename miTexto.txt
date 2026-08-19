@@ -1,1 +1,2 @@
 Nuevo archivo de texto
+añadido desde rama2
